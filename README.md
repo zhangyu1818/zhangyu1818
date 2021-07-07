@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm ZHANGYU 👋
 
-<!--
-**zhangyu1818/zhangyu1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End developer, coding nerd. 
 
-Here are some ideas to get you started:
+#### Activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Swift**
+
+- 📝 I regularly write articles on [zhangyu.dev](https://zhangyu.dev)
+
+#### Languages
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="24"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="24"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>

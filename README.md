@@ -4,7 +4,7 @@ I'm a Front-End developer, coding nerd.
 
 #### Activities
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Swift**
 
 - 📝 I regularly write articles on [zhangyu.dev](https://zhangyu.dev)
 

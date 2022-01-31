@@ -9,12 +9,12 @@ I'm a Front-End developer, coding nerd.
 - 📝 I regularly write articles on [zhangyu.dev](https://zhangyu.dev)
 
 
-#### Languages
+#### Skills
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="24"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="24"/></code>
+<code><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="24"/></code>
+<code><img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" width="24"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="24"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>
 
 <div id="github-stats">

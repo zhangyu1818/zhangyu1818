@@ -16,6 +16,8 @@ I'm a Front-End developer, coding nerd.
 <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" width="24" height="24"/></code>
+
 
 <div id="github-stats">
   <h4>Stats</h4>

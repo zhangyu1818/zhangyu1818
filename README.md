@@ -15,7 +15,6 @@ I'm a Front-End developer, coding nerd.
 <code><img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" width="24" height="24"/></code>
 
 

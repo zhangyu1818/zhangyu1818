@@ -10,12 +10,12 @@ I'm a Front-End developer, coding nerd.
 
 
 #### Skills
-
+  
 <code><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="24"/></code>
 <code><img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" width="24" height="24"/></code>
+<code><img src="https://developer.apple.com/swift/images/swift-logo.svg" width="24" /></code>
 
 
 <div id="github-stats">

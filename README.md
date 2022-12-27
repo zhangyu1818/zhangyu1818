@@ -1,15 +1,17 @@
-### Hi, I'm ZHANGYU 👋
+### Hi, 我是 ZHANGYU 👋
 
-I'm a Front-End developer, coding nerd. 
+我是一名前端开发者, 喜欢瞎折腾，遭轮子，热爱写代码。
 
-#### Activities
+#### 活动
 
-- 🌱 I’m currently on vacation
+- 🌱 目前我正在预期一年的休假中
 
-- 📝 I regularly write articles on [zhangyu.dev](https://zhangyu.dev)
+- 📚 空闲的时候会深入学习*Swift*
+
+- 📝 通常我会发表博文在[zhangyu.dev](https://zhangyu.dev)和[掘金](https://juejin.cn/user/4089838986339927)
 
 
-#### Skills
+#### 技能
   
 <code><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="24"/></code>
 <code><img src="https://upload.vectorlogo.zone/logos/typescriptlang/images/235f610f-bc79-428a-9511-b3de5c3b1208.svg" width="24"/></code>
@@ -19,7 +21,7 @@ I'm a Front-End developer, coding nerd.
 
 
 <div id="github-stats">
-  <h4>Stats</h4>
+  <h4>状态</h4>
   
   ![ZHANGYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangyu1818)
 </div>

@@ -18,10 +18,3 @@
 <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24"/></code>
 <code><img src="https://developer.apple.com/swift/images/swift-logo.svg" width="24" /></code>
-
-
-<div id="github-stats">
-  <h4>状态</h4>
-  
-  ![ZHANGYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangyu1818)
-</div>

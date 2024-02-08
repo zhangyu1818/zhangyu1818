@@ -1,4 +1,4 @@
-### <Hello>你好👋, &nbsp;I'm ZHANGYU</Hello>
+# <Hello>你好👋, &nbsp;I'm ZHANGYU</Hello>
 
 I'm a frontend developer from Chengdu, with a love for writing `code`. I post blogs on [zhangyu.dev](https://www.zhangyu.dev/).
 
